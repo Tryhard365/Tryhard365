@@ -22,7 +22,7 @@ I’m passionate about ensuring software quality and building reliable automatio
 ---
 
 ### 🌍 Connect With Me
-[💼 LinkedIn]((http://www.linkedin.com/in/micheal-adedoyin-3a9a93275)) 
+[💼 LinkedIn](http://www.linkedin.com/in/micheal-adedoyin-3a9a93275) 
 📧 Email: michade365@gmail.com
 
 ---
