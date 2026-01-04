@@ -1,23 +1,26 @@
-# 👋 Hi, I'm Micheal Adedoyin
+# 👋 Hi, I'm Michael Adedoyin
 
-🎯 **QA & Automation Engineer | Manual & No-Code Tester**
+🎯 **QA Automation Engineer | API & Test Automation (Postman, Cypress)**
 
 I’m passionate about ensuring software quality and building reliable automation frameworks.
 
 ---
 
 ### 🧰 Tech Stack
-- **Testing:** Selenium, Postman, Cypress (No-code tools)
-- **Languages:** Java, Python (Basics)
-- **CI/CD:** Jenkins, GitHub Actions
-- **Other:** Jira, TestRail, Agile/Scrum
+- **Automation:** Cypress(POM)|Selenium|Playwright|Appium
+- **Manual Testing** Functional|Regression|Exploratory|Mobile
+- **Languages:** JavaScipt/TypeScipt|Python|Node.js
+- **CI/CD-DevOps:** GitHub Actions|Jenkins|Docker container testing
+- **API/Backend:** Postman|Newman|REST/GraphQL|PostgreSQL
+- **Tools/Cloud:** Jira|Git|AWS(EC2/S3)|Chrome DevTools|VS Code
 
 ---
 
 ### 🧪 Featured Projects
-- 🔹 [Mobile App Testing Demo](https://github.com/michealadeyoyin/mobile-testing-demo)
-- 🔹 [API Testing Collection](https://github.com/michealadeyoyin/api-testing)
-- 🔹 [Automation Framework (Java + Selenium)](https://github.com/michealadeyoyin/automation-framework)
+- 🔹 [Playwright-web-testing](https://github.com/Tryhard365/playwright-web-testing)
+- 🔹 [Cypress-ecommerce-payment-testing](https://github.com/Tryhard365/cypress-ecommerce-payment-testing)
+- 🔹 [Banking-automation-cypress](https://github.com/Tryhard365/banking-automation-cypress)
+- 🔹 [Cypress-automationexercise-testing](https://github.com/Tryhard365/cypress-automationexercise-testing)
 
 ---
 
