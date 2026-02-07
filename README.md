@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michael Adedoyin
+# 👋 Hi, I'm Micheal Adedoyin
 
 🎯 **QA Automation Engineer | API & Test Automation (Postman, Cypress)**
 
